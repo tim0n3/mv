@@ -1,2 +1,2 @@
 # mv
-Custom script to automate extracting *LOTS* of archives &amp; stripping the absolute filepath during extraction
+Custom script to automate moving *LOTS* of txt files &amp; after umTARme script is run
