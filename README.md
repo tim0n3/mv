@@ -68,3 +68,7 @@ This will move all `.txt` files from the specified source directory to the desti
 ## License
 
 This script is provided under the [MIT License](LICENSE). Feel free to use and modify it as needed.
+
+## Donations
+
+If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=ULMMXE4DLQVZS) . Thanks!
